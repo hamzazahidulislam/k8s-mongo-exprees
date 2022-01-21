@@ -23,5 +23,5 @@ service/mongodb-service created
 4. Open `http://localhost` or [SYSTEM_IP_ADDRESS](https://superuser.com/questions/433988/how-to-find-the-ip-address-of-a-vm-running-on-vmware-or-other-methods-of-using/531635) in your browser.
 After open Browser, you will see the following Result.
 <center>
-<a href="https://github.com/hamzazahidulislam/k8s-mongo-exprees/blob/main/result.png"><img src="result.gif" alt="result" border="0"></a><br />
+<a href="result.png"><img src="result.gif" alt="result" border="0"></a><br />
 </center>
